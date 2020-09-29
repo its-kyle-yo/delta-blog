@@ -1,1 +1,1 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to scaffold a coding assesment for a Senior Front End Developer position with [https://www.deltadefense.com/](Delta Defense).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to scaffold a coding assesment for a Senior Front End Developer position with [Delta Defense](https://www.deltadefense.com/).
